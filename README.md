@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Full-stack technologies, frameworks and tools**
 
-- 💬 Ask me about **Anime**
-
 - 📫 How to reach me **devxed43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
